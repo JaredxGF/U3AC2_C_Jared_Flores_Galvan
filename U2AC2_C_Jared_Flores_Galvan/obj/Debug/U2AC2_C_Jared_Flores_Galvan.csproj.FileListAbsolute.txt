@@ -1,0 +1,7 @@
+C:\Users\Tecnologico\source\repos\U2AC2_C_Jared_Flores_Galvan\bin\Debug\U2AC2_C_Jared_Flores_Galvan.exe.config
+C:\Users\Tecnologico\source\repos\U2AC2_C_Jared_Flores_Galvan\bin\Debug\U2AC2_C_Jared_Flores_Galvan.exe
+C:\Users\Tecnologico\source\repos\U2AC2_C_Jared_Flores_Galvan\bin\Debug\U2AC2_C_Jared_Flores_Galvan.pdb
+C:\Users\Tecnologico\source\repos\U2AC2_C_Jared_Flores_Galvan\obj\Debug\U2AC2_C_Jared_Flores_Galvan.csproj.AssemblyReference.cache
+C:\Users\Tecnologico\source\repos\U2AC2_C_Jared_Flores_Galvan\obj\Debug\U2AC2_C_Jared_Flores_Galvan.csproj.CoreCompileInputs.cache
+C:\Users\Tecnologico\source\repos\U2AC2_C_Jared_Flores_Galvan\obj\Debug\U2AC2_C_Jared_Flores_Galvan.exe
+C:\Users\Tecnologico\source\repos\U2AC2_C_Jared_Flores_Galvan\obj\Debug\U2AC2_C_Jared_Flores_Galvan.pdb
